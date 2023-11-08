@@ -1,3 +1,3 @@
 # Community Classroom is OP
 
--Its git
+-Kunal Kushwaha's git tutorial was amazing and it helped me a lot.
